@@ -25,7 +25,7 @@ const TodoList = () => {
         <button id='btnClearAll'> Limpar </button>
       </div>
       <div className='ava'>
-        <Link className='voltar' to='/index'>
+        <Link className='voltar' to='/'>
           Voltar
         </Link>
         <Link className='voltar avaliacao' to='/home'>

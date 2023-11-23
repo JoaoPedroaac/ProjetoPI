@@ -6,7 +6,7 @@ body {
   color: #ffffff;
 }
 
-.Cabeçalho {
+.cabecalho {
   text-align: center;
   margin: 0 auto;
 }
@@ -18,7 +18,7 @@ body {
   width: 80%;
   align-items: center;
 }
-.Notificação {
+.notificacao {
   text-align: center;
   height: auto;
   width: 400px;
@@ -26,7 +26,7 @@ body {
   font-size: 20px;
   margin: 0 auto;
 }
-.Notificação2 {
+.notificacao2 {
   text-align: center;
   margin-left: 15%;
   height: auto;
@@ -35,7 +35,7 @@ body {
   margin: 0 auto;
 }
 
-.Notificação3 {
+.notificacao3 {
   text-align: left;
   margin: 0 auto;
   height: auto;
@@ -44,7 +44,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.Notificação4 {
+.notificacao4 {
   text-align: left;
   margin: 0 auto;
   height: auto;
@@ -197,52 +197,52 @@ body {
   width: 900px;
 }
 
-.opção1 {
+.opcao1 {
   border-color: #ce0000;
   background-color: #ce0000;
 }
 
-.opção2 {
+.opcao2 {
   border-color: #ff0000;
   background-color: #ff0000;
 }
 
-.opção3 {
+.opcao3 {
   border-color: #db3b09;
   background-color: #db3b09;
 }
 
-.opção4 {
+.opcao4 {
   border-color: #ff6b00;
   background-color: #ff6b00;
 }
 
-.opção5 {
+.opcao5 {
   border-color: #c3bd2d;
   background-color: #c3bd2d;
 }
 
-.opção6 {
+.opcao6 {
   border-color: #fff50d;
   background-color: #fff50d;
 }
 
-.opção7 {
+.opcao7 {
   border-color: #b6f292;
   background-color: #b6f292;
 }
 
-.opção8 {
+.opcao8 {
   border-color: #9ade70;
   background-color: #9ade70;
 }
 
-.opção9 {
+.opcao9 {
   border-color: #77ca6a;
   background-color: #77ca6a;
 }
 
-.opção10 {
+.opcao10 {
   border-color: #24ff00;
   background-color: #24ff00;
 }
