@@ -1,0 +1,22 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(to right, #00471b, #000000);
+  font-family: 'nba-milwaukee-bucks-2015-regular', sans-serif;
+  padding-top: 50px;
+}
+
+h1 {
+  color: #ececec;
+  margin-bottom: 15px;
+}
+
+h1 > i {
+  font-size: 1.7rem;
+}

@@ -1,28 +1,7 @@
-*, html, body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
-body {
-  
-  background-image: linear-gradient(to right, #00471B,  #000000);
-  font-family: 'nba-milwaukee-bucks-2015-regular', sans-serif;
-  padding-top: 50px;
-};
-
-
-h1 {
-  color: #ececec;
-  margin-bottom: 15px;
-}
-
-h1 > i {
-  font-size: 1.7rem;
-}
 
 .box {
-   background-image: linear-gradient(to top left, #00471B, #066d2f);
+  background-image: linear-gradient(to top left, #00471b, #066d2f);
   padding: 20px;
   border-radius: 4px;
   margin: 0 auto;
@@ -41,7 +20,6 @@ h1 > i {
   justify-content: space-between;
   width: 100%;
   margin-bottom: 10px;
-  
 }
 
 .box .header input {
@@ -51,11 +29,12 @@ h1 > i {
   border: none;
   border: 1px solid #ffffff;
   border-radius: 4px;
-  color:  #00471B;
+  color: #00471b;
   outline: none;
 }
 
-.box .header input:focus, input:hover {
+.box .header input:focus,
+input:hover {
   border-color: #000000;
 }
 
@@ -65,22 +44,19 @@ h1 > i {
   width: 50px;
   border-radius: 5px;
   background-color: #22a216;
-  color: #FFF;
+  color: #fff;
   font-weight: bold;
   font-size: 25px;
   cursor: pointer;
   border: 4px solid transparent;
-  transition: all .3s ease;
-  
+  transition: all 0.3s ease;
 }
 
 .box .header button:hover {
   border-color: #075f1b;
-
 }
 
 .box .todo {
- 
   display: flex;
   justify-content: space-between;
   padding: 10px 7px;
@@ -103,10 +79,10 @@ h1 > i {
   width: 50px;
   cursor: pointer;
   background-color: #000000;
-  color: #FFF;
+  color: #fff;
   border: none;
   outline: none;
-  transition: all .2s ease-out;
+  transition: all 0.2s ease-out;
 }
 
 .box .todo:hover button {
@@ -127,47 +103,43 @@ h1 > i {
   border-radius: 4px;
   border: 1px solid transparent;
   cursor: pointer;
-  transition: all .3s ease;
+  transition: all 0.3s ease;
 }
 
 .box .footer button:hover {
   border-color: #16811c;
 }
 
-.titulo{
+.titulo {
   margin-bottom: 30px;
   font-family: 'nba-milwaukee-bucks-2015-regular', sans-serif;
-
 }
 
-.voltar
-       {
-           text-decoration: none;
-           color: #ffffff;
-           border: 2px solid #2d7023;
-           border-radius: 8px;
-           background-color: #286d1d;
-           font-family: Arial, Helvetica, sans-serif;
-           cursor: pointer;
-           font-size: 20px;
-           width: 120px;
-           height: 30px;
-           margin: 0 auto;
-           border-width: 2px;
-           border-style: solid;
-           margin-top: 30px;
-           font-family: 'nba-milwaukee-bucks-2015-regular', sans-serif;
-           transition: 0.5s ease-out;
-           align-items: center;
-           display: flex;
-           justify-content: center;
-           padding: 10px;
-          }
+.voltar {
+  text-decoration: none;
+  color: #ffffff;
+  border: 2px solid #2d7023;
+  border-radius: 8px;
+  background-color: #286d1d;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+  font-size: 20px;
+  width: 120px;
+  height: 30px;
+  margin: 0 auto;
+  border-width: 2px;
+  border-style: solid;
+  margin-top: 30px;
+  font-family: 'nba-milwaukee-bucks-2015-regular', sans-serif;
+  transition: 0.5s ease-out;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
 
 .ava {
-
   display: flex;
-  justify-content:flex-end;
+  justify-content: flex-end;
   padding: 10px;
-
 }
